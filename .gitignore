@@ -9,6 +9,9 @@
 # .idea folder
 .idea/
 
+# IDEA files
+tradeshift-triangle.iml
+
 # BlueJ files
 *.ctxt
 
