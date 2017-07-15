@@ -1,4 +1,4 @@
-package com.tradeshift.domain;
+package com.tradeshift.model;
 
 /**
  * This class represents a triangle with three equal sides
@@ -7,7 +7,7 @@ package com.tradeshift.domain;
  */
 public class Equilateral extends Triangle {
 
-    public Equilateral(double sideA, double sideB, double sideC) {
+    Equilateral(double sideA, double sideB, double sideC) {
         super(sideA, sideB, sideC);
     }
 

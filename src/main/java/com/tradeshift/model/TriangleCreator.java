@@ -1,7 +1,7 @@
-package com.tradeshift.service;
+package com.tradeshift.model;
 
-import com.tradeshift.domain.*;
 import com.tradeshift.exception.AppException;
+import com.tradeshift.factory.PolygonCreateStrategy;
 
 /**
  * The instances of this class will create a triangle in it's original type.

@@ -1,4 +1,4 @@
-package com.tradeshift.domain;
+package com.tradeshift.model;
 
 /**
  * This class represents a triangle with no equal sides
@@ -7,7 +7,7 @@ package com.tradeshift.domain;
  */
 public class Scalene extends Triangle {
 
-    public Scalene(double sideA, double sideB, double sideC) {
+    Scalene(double sideA, double sideB, double sideC) {
         super(sideA, sideB, sideC);
     }
 

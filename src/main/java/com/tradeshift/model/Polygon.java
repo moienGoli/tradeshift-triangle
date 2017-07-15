@@ -1,4 +1,4 @@
-package com.tradeshift.domain;
+package com.tradeshift.model;
 
 import java.util.List;
 

@@ -1,6 +1,7 @@
-package com.tradeshift.service;
+package com.tradeshift.factory;
 
-import com.tradeshift.domain.Polygon;
+import com.tradeshift.model.Polygon;
+import com.tradeshift.model.TriangleCreator;
 import com.tradeshift.exception.AppException;
 
 /**

@@ -1,4 +1,4 @@
-package com.tradeshift.domain;
+package com.tradeshift.model;
 
 /**
  * This class represents a triangle with two equal sides
@@ -7,7 +7,7 @@ package com.tradeshift.domain;
  */
 public class Isosceles extends Triangle {
 
-    public Isosceles(double sideA, double sideB, double sideC) {
+    Isosceles(double sideA, double sideB, double sideC) {
         super(sideA, sideB, sideC);
     }
 

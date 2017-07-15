@@ -1,8 +1,8 @@
 package com.tradeshift;
 
-import com.tradeshift.domain.*;
+import com.tradeshift.model.*;
 import com.tradeshift.exception.AppException;
-import com.tradeshift.service.PolygonFactory;
+import com.tradeshift.factory.PolygonFactory;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

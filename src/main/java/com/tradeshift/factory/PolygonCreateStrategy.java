@@ -1,6 +1,6 @@
-package com.tradeshift.service;
+package com.tradeshift.factory;
 
-import com.tradeshift.domain.Polygon;
+import com.tradeshift.model.Polygon;
 
 /**
  * The implementor is responsible of actually instantiating a subclass of Polygon based on the input array of sides

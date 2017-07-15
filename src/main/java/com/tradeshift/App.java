@@ -1,8 +1,8 @@
 package com.tradeshift;
 
-import com.tradeshift.domain.Polygon;
+import com.tradeshift.model.Polygon;
 import com.tradeshift.exception.AppException;
-import com.tradeshift.service.PolygonFactory;
+import com.tradeshift.factory.PolygonFactory;
 
 import java.util.Arrays;
 import java.util.Scanner;
